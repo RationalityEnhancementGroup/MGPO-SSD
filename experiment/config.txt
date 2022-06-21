@@ -1,0 +1,42 @@
+[HIT Configuration]
+title = Example JsPsych Psiturk Experiment
+description = For educational purposes
+amt_keywords = psychology, experiment
+lifetime = 24
+us_only = false
+# set a reasonable approve_requirement (e.g. 95), 0 is for testing purposes only
+approve_requirement = 0
+contact_email_on_error = [removed]
+ad_group = psychology
+organization_name = Max Planck Institute
+browser_exclude_rule = MSIE, mobile, tablet
+allow_repeats = false
+
+[Database Parameters]
+database_url = [removed]
+table_name = participants
+
+[Task Parameters]
+experiment_code_version = exp_ssd_po_v1.63
+num_conds = 3
+num_counters = 100
+
+[Server Parameters]
+host = 0.0.0.0
+port = 22362
+cutoff_time = 30
+logfile = server.log
+loglevel = 2
+debug = false
+threads = 1
+
+[Shell Parameters]
+launch_in_sandbox_mode = true
+bonus_message = "Thanks for participating!"
+
+# If you are not using the psiturk ad server, set `use_psiturk_ad_server` to `false` and point `ad_location` to your proxy server <host> and <port>. Format the ad_location like this:
+#
+#   https://<host>:<port>/ad 
+
+ad_location = [removed]
+use_psiturk_ad_server = false

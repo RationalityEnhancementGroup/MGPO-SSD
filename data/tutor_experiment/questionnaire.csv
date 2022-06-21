@@ -1,0 +1,452 @@
+,Participant,Condition,Counterbalance,Language,QuizAttempts,QuizFailures,Bonus,Duration,Was it necessary to click airports multiple times to achieve a high reward?,Which airports should be clicked first?,How enjoyable was it to learn strategies in the training environments?,How useful do you think the training environments were for you to learn a good strategy?,Have you participated this type of planning experiment in the past?,Did you try your best to achieve a high reward?,What is your age?,What gender do you identify with?,Any issues with the tutor?,Any comments/feedback?,CompleteTrialData
+0,0,2,89,pl,1,0,1.22,1837.749346,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,21,Male,No,,True
+1,1,0,42,it-IT,2,1,1.51,1517.831212,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,25,female,no,I really enjoyed it. If there was an app game with this as a game I would spend hours on it!,True
+2,2,2,5,pl,2,1,0.48,2086.619418,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,41,male,no,,True
+3,3,0,86,it-IT,1,0,0.51,737.312094,No,Airports close to the starting airport,Slightly enjoyable,Slightly useful,No,Yes,20,Male,No.,,True
+4,4,2,11,es-ES,2,1,0.01,4816.204473,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,39,masculino,ninguno,todo bien,True
+5,5,2,69,en-US,1,0,0.0,,,,,,,,,,,,False
+6,6,2,41,en-US,1,0,1.06,2294.36081,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,32,male,"during the practice, I couldn't understand the strategy of why some nodes are preferred above others",,True
+7,7,2,4,en-GB,1,0,1.2,2066.243253,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,26,female,n/a :),it was an enjoyable study thank you,True
+8,8,2,21,sl-SI,1,1,0.0,,,,,,,,,,,,False
+9,9,1,43,en-US,1,0,0.47,4276.686026,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,20,female,no,no,True
+10,10,2,96,nl,1,1,0.0,,,,,,,,,,,,False
+11,11,0,48,it-IT,3,3,0.0,,,,,,,,,,,,False
+12,12,1,26,en-US,4,0,0.28,4108.083863,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,38,Female,NO,no,True
+13,13,1,36,pt-PT,2,1,0.71,4160.564151,No,Airports far from the starting airport,Not enjoyable,Slightly useful,No,Yes,20,Female,,,True
+14,14,2,85,it-IT,2,1,0.85,1565.072408,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,Yes,Yes,23,Male,No,,True
+15,15,1,97,pl,2,1,0.71,2235.758172,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,32,female,no,Nice survey!,True
+16,16,1,37,en-US,2,1,0.0,3582.07163,Yes,It doesn't matter,Very enjoyable,Very useful,Yes,Yes,27,Female,,no,True
+17,17,0,61,en-GB,6,3,0.0,,,,,,,,,,,,False
+18,18,2,88,pl-PL,3,2,0.68,1654.985234,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,19,Male,Absolutely not - it was fun!,;I'm glad that I participated :) ,True
+19,20,2,94,hu-HU,2,1,1.26,2216.415495,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,27,Male,,,True
+20,21,1,27,en-US,3,3,0.0,,,,,,,,,,,,False
+21,22,1,64,pt-PT,3,2,0.64,3513.36459,Yes,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,23,male,"All the instructions that the tutor gave me I understood perfectly, I only had a little difficulty at the beginning to get the plane to fly, otherwise everything was very well organized",,True
+22,25,1,2,pl-PL,1,0,1.12,1897.313499,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,34,male,"no, thank you",thank you :),True
+23,26,0,19,en-GB,1,0,1.33,3186.402398,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,30,female,,,True
+24,27,1,5,pt-PT,3,2,1.22,3266.044596,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,25,male,no,great study!,True
+25,28,0,54,en-US,1,0,1.12,1717.918073,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,28,female,None,Good fun and an engaging thought experiment,True
+26,29,1,62,en-US,1,0,0.91,3184.476169,No,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,31,Male,"At first i did not understand, i actually learnt the strategies towards the end of training",This was a fun exercise once you get the hang of it. ,True
+27,30,0,40,en-GB,1,0,1.7,1508.371288,Yes,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,30,Female,,,True
+28,31,0,58,en-US,3,2,0.0,,,,,,,,,,,,False
+29,32,2,50,en-GB,2,1,0.75,1898.741291,Yes,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,36,Female,No,,True
+30,33,2,50,en-US,1,1,0.0,,,,,,,,,,,,False
+31,34,0,58,it-IT,3,3,0.0,,,,,,,,,,,,False
+32,35,2,22,it-IT,1,0,0.87,2072.070572,Yes,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,38,Female,No issues at all.,"At first it was a bit difficult to understand how to play, but then it became fun.",True
+33,36,2,71,pl-PL,3,2,1.14,2824.924666,Yes,It doesn't matter,Very enjoyable,Not useful,No,Yes,20,Male,No,This training section was in my opinion dumb at all. It's personal how people plan things and training wouldn't change that,True
+34,37,1,22,pl,2,2,0.0,,,,,,,,,,,,False
+35,38,2,26,en-US,3,2,1.15,3321.503417,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,24,male,no,It was an enjoyable exercise,True
+36,39,1,55,en-US,4,0,0.0,,,,,,,,,,,,False
+37,40,2,37,en-GB,1,0,0.97,1872.35743,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,43,Female,No,,True
+38,41,0,23,pl-PL,3,2,0.0,,,,,,,,,,,,False
+39,42,0,94,pl-PL,1,0,0.67,1362.937023,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,41,male,"No, I haven't.",All good,True
+40,43,1,61,en-GB,1,0,0.79,5794.679032,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,32,Female,No,,True
+41,44,1,24,en-ZA,1,0,0.73,3798.884112,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,21,Female,No I did not.,The study was very interesting.,True
+42,45,1,31,pl-PL,1,0,1.3,3029.197019,No,Airports far from the starting airport,Not enjoyable,Not useful,No,Yes,27,Male,"No, everything went smoothly",,True
+43,46,2,21,en-US,2,1,0.76,3225.500215,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,28,Female,No,"A little hard to navigate, but I got used to it",True
+44,47,2,81,en-ZA,3,2,0.88,3874.957154,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,24,Female,No,,True
+45,48,1,85,en-US,3,2,0.34,4536.737101,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,27,Female,No,No comments,True
+46,49,1,74,en-GB,2,1,0.0,,,,,,,,,,,,False
+47,50,1,76,el-GR,1,0,0.75,2436.585935,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,30,male,everything was fine,,True
+48,51,0,55,en-ZA,2,1,0.49,108705.343771,No,Airports close to the starting airport,Very enjoyable,Slightly useful,No,Yes,64,female,no,,True
+49,52,0,11,en-US,1,0,0.44,1684.401551,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,36,Female,No.,Thank you.,True
+50,53,1,90,pt-PT,1,0,0.89,3454.976409,Yes,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,30,Male,No.,No.,True
+51,54,2,63,pl-PL,1,0,0.98,1983.268879,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,25,Male,no ,no,True
+52,55,0,93,pt-PT,2,1,0.57,741.411406,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,40,Male,No,,True
+53,56,2,94,en-GB,2,1,0.98,2659.337658,No,Airports far from the starting airport,Not enjoyable,Not useful,No,Yes,33,female,It gave no reason as to why i had selected the wrong circle so it was very difficult to learn how to chose the right one.,,True
+54,57,0,59,en-GB,1,0,1.29,1357.115506,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,27,Female,No,"Cool study, though one time I missclicked 1 instead of 2 (and ended up loosing like ~25$). Nevertheless, I enjoyed it a lot!",True
+55,58,1,87,pt-PT,1,0,0.83,1882.046244,Yes,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,20,Female,No,,True
+56,59,0,64,pl-PL,2,1,0.51,1431.679123,No,Airports close to the starting airport,Very enjoyable,Slightly useful,No,Yes,21,female,no,,True
+57,61,2,11,en-US,1,0,0.0,,,,,,,,,,,,False
+58,62,1,78,it-IT,1,0,0.94,2017.705539,No,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,23,Female,No,,True
+59,63,1,57,es-ES,3,2,0.69,3481.940556,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,44,women,no,,True
+60,64,0,95,en-ZA,1,0,0.01,1997.181677,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,33,female,No but l experienced problems while working on the task it failed to load on task 9 of 10,"No comments ,Thank you.",True
+61,65,1,77,en-GB,1,0,0.73,1932.392193,Yes,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,46,Female,,,True
+62,67,1,98,pt-PT,2,1,1.02,2076.109233,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,21,male,no,,True
+63,68,1,91,en-ZA,1,0,0.89,4398.194008,No,Airports close to the starting airport,Slightly enjoyable,Slightly useful,No,Yes,27,female,no,,True
+64,70,1,48,pt-BR,3,2,0.95,2739.441634,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,23,Feminine,No.,,True
+65,74,0,60,en-GB,3,2,1.29,3299.025579,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,23,Female,No,,True
+66,75,2,25,en-US,5,1,1.48,4607.710362,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,22,Female,The instructions were a bit unclear but i was partly to blame for the lack of reading  ,,True
+67,78,0,18,it-IT,3,2,1.7,2338.347434,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,20,female,,it was very funny,True
+68,81,0,52,pt-PT,2,1,1.92,2509.625956,No,Airports far from the starting airport,Slightly enjoyable,Very useful,Yes,Yes,19,female,no,had to click multiple times on a node for the number to show up,True
+69,82,1,18,en-ZA,1,0,0.37,3708.397666,No,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,21,female,Was very hard to understand what the tutor meant.,The training session is very long and you get tired before even getting to the main game,True
+70,83,0,65,en-US,1,0,1.4,2699.773298,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,34,Male,No.,Great experiment. ,True
+71,85,0,96,en-US,1,0,1.53,3084.971685,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,28,Female,no,It was very enjoyable,True
+72,86,0,75,en-GB,1,0,1.66,2066.275866,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,23,Female,No,I enjoyed the experience,True
+73,87,2,64,en-US,3,2,0.62,3429.858921,No,It doesn't matter,Slightly enjoyable,Very useful,No,Yes,26,male,nope,thank you for the experience it was fun,True
+74,88,0,31,en-US,1,0,0.05,526.46853,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,26,Male,None,,True
+75,89,0,99,en-US,3,3,0.0,,,,,,,,,,,,False
+76,90,2,1,it-IT,1,0,1.13,1996.14511,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,34,female,no,,True
+77,91,2,54,pt-PT,1,0,1.0,2029.384288,No,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,23,femine,no,,True
+78,92,1,58,en-US,3,2,0.44,3748.480233,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,30,Male,Not at the moment.,Thank you.,True
+79,93,0,34,pl,3,3,0.0,,,,,,,,,,,,False
+80,94,2,59,en-US,1,0,1.03,2189.603199,Yes,It doesn't matter,Not enjoyable,Not useful,No,Yes,25,male,the was no logic to choosing the right node,the training round was more confusing than helpful,True
+81,95,2,75,it-IT,2,1,0.88,2116.066094,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,66,female,no,,True
+82,96,1,40,es-ES,3,3,0.0,,,,,,,,,,,,False
+83,97,0,41,en-US,1,0,0.56,2915.368782,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,28,Male,No,"Fun experiment, really enjoyed it. Hope for a positive outcome.",True
+84,98,0,82,en-GB,3,2,1.15,1792.256871,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,46,Male,"No, all was good","Intriguing, and increasingly fun as you moved through and gained understanding",True
+85,99,1,6,pl-PL,2,1,1.04,3495.041794,No,Airports far from the starting airport,Not enjoyable,Slightly useful,No,Yes,23,female,no,no,True
+86,100,2,16,pl,1,0,0.81,1778.446599,Yes,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,23,female,no,no,True
+87,101,1,47,en-US,3,2,0.53,2762.750329,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,35,female,,cool strategy game. would play again,True
+88,102,2,77,it-IT,2,2,0.0,,,,,,,,,,,,False
+89,103,1,80,en-GB,2,1,0.99,2292.526469,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,25,male,no,no,True
+90,105,1,32,en-US,1,0,1.27,3056.14999,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,21,female,"none, all good",very enjoyable game/experience,True
+91,106,2,42,pt-PT,1,0,1.15,2352.063012,No,Airports far from the starting airport,Very enjoyable,Not useful,No,Yes,21,Male,No,The training part was too long,True
+92,107,2,33,en-US,2,1,0.74,1771.294373,No,It doesn't matter,Slightly enjoyable,Not useful,No,Yes,25,female,No,No,True
+93,108,0,83,en-US,1,0,1.29,2150.866998,No,It doesn't matter,Slightly enjoyable,Slightly useful,Yes,Yes,19,feminine ,Not at all,,True
+94,109,1,38,en-US,2,1,0.85,4530.317248,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,29,male,No,I would like to take part in more studies like this one.,True
+95,110,1,34,en-ZA,1,1,0.0,,,,,,,,,,,,False
+96,111,2,35,en-GB,2,1,0.62,1906.605711,No,Airports close to the starting airport,Slightly enjoyable,Very useful,No,Yes,52,Female,No,,True
+97,113,0,91,pl,4,0,1.49,2978.531768,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,25,female,I did not experience any issues.,,True
+98,115,1,12,en-GB,1,0,1.04,2929.524729,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,24,non-binary,"At first, I couldn't quite grasp which nodes to go for first and failed a couple of times. At the end, I still don't think I was able to fully learn the strategies taught and apply them as the tutor meant to in the independent planning rounds.",,True
+99,116,0,43,pl-PL,1,0,1.14,2478.139267,No,Airports close to the starting airport,Slightly enjoyable,Slightly useful,No,Yes,24,Female,No ,-,True
+100,117,0,98,en-GB,3,2,0.57,2397.088959,Yes,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,20,Male,No,,True
+101,118,2,6,en-US,1,0,0.58,3457.165031,Yes,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,21,female,"No, not at all.",I would do this experiment again if given a chance. i enjoyed it a lot.,True
+102,119,1,60,hu-HU,3,2,0.72,3530.953801,No,It doesn't matter,Not enjoyable,Not useful,No,Yes,28,female,,,True
+103,120,2,27,en-US,3,2,0.0,3024.378846,No,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,30,Female,None.,,True
+104,121,0,30,pt-PT,2,1,1.05,2519.274306,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,32,female,No.,Everything went fine!,True
+105,122,2,96,en-GB,3,3,0.0,,,,,,,,,,,,False
+106,123,2,42,en-US,1,0,1.27,4308.904204,Yes,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,28,Female,No,a fun experience,True
+107,124,1,41,es-ES,2,1,0.86,2666.749105,No,Airports far from the starting airport,Very enjoyable,Not useful,No,Yes,32,Male,"Yes, the tutorial was kinda contradictory","I had a fun time as a former airline emplyee, thanks!",True
+108,125,1,21,en-GB,3,2,1.05,4000.323049,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,Yes,Yes,21,Female,No,No,True
+109,126,1,52,en-GB,3,2,1.32,4713.93951,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,49,female,no,"Very engaging game, made me hooked ",True
+110,127,2,38,en-US,1,0,1.08,1368.413309,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,20,Male,No,,True
+111,128,0,50,it-IT,2,1,1.33,3414.380189,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,27,Male,No,No,True
+112,129,2,47,ru-RU,3,2,1.03,3712.67938,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,40,male,"No, there were no problems","I really liked the study, thank you very much",True
+113,130,0,97,pl-PL,3,3,0.0,,,,,,,,,,,,False
+114,131,1,26,pl-PL,1,1,0.0,,,,,,,,,,,,False
+115,132,1,19,pl-PL,2,1,1.11,2861.513494,No,Airports far from the starting airport,Not enjoyable,Slightly useful,No,Yes,20,female,nope,"too long, became boring",True
+116,133,1,88,en-GB-oxendict,1,0,1.03,3234.193514,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,32,Female ,n/a,n/a,True
+117,134,0,20,en-US,4,0,1.11,2537.703659,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,66,male,No,"No,thank you",True
+118,135,1,63,it-IT,2,1,1.03,2034.200816,Yes,Airports far from the starting airport,Not enjoyable,Not useful,No,Yes,25,male,no tutor,training was painful. just let me do my thing ,True
+119,136,2,35,pl-PL,2,1,0.84,1703.792793,Yes,Airports close to the starting airport,Not enjoyable,Slightly useful,No,Yes,18,Male,,,True
+120,137,0,21,en-US,2,1,1.66,2540.568115,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,21,female,"no, i did experience any issues",no comment ,True
+121,138,2,56,en-GB,3,2,0.04,4155.658002,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,46,Female,No.,It was a fun game.,True
+122,139,0,9,en-US,2,1,1.38,4584.507474,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,26,female,no,,True
+123,140,2,47,en-US,2,2,0.0,,,,,,,,,,,,False
+124,141,2,90,pt-PT,3,2,1.2,2081.20926,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,23,Male,No,It was a fun experiment and the commands are easy to use,True
+125,142,0,72,pl-PL,2,1,0.91,1018.555872,No,Airports close to the starting airport,Very enjoyable,Very useful,Yes,Yes,22,Male,No,I really love games like this!,True
+126,143,0,36,en-GB,2,2,0.0,,,,,,,,,,,,False
+127,144,2,24,en-US,2,1,0.99,3638.662114,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,32,Female,when I zoomed out I could not click on the blue circle,Very interesting game,True
+128,145,2,77,pl,1,0,0.76,1517.435276,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,20,Male,,,True
+129,146,0,27,pt-PT,1,0,0.63,1262.14093,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,27,female,no,,True
+130,147,2,76,en-GB,1,0,0.63,4091.488948,No,Airports close to the starting airport,Very enjoyable,Slightly useful,No,Yes,28,female,no,none,True
+131,148,1,75,en-US,3,2,0.0,,,,,,,,,,,,False
+132,149,2,79,en-US,3,2,0.67,2985.531044,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,27,female,no,no,True
+133,150,1,80,en-US,1,0,0.94,,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,32,Male,No,Awesome research hope I will something like this in future.Thank You guys!,True
+134,151,2,52,el-GR,1,0,1.17,3112.211133,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,35,male,I think not..,,True
+135,152,2,40,en-IE,1,0,0.87,2011.159311,No,Airports far from the starting airport,Very enjoyable,Not useful,No,Yes,58,Female,No,No,True
+136,154,2,62,en-US,1,1,0.0,,,,,,,,,,,,False
+137,155,2,2,en-US,1,1,0.0,,,,,,,,,,,,False
+138,156,1,15,hu-HU,1,0,0.97,1874.182902,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,19,man,no,no,True
+139,157,0,89,pl-PL,9,2,1.54,2878.181112,No,It doesn't matter,Very enjoyable,Slightly useful,Yes,Yes,21,female,-,"please, accept my work",True
+140,158,1,12,pt-PT,2,1,0.0,,,,,,,,,,,,False
+141,159,0,77,en-us,1,0,0.16,1736.347529,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,22,Female,,,True
+142,160,2,61,en-ZA,1,0,0.82,2953.785796,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,33,Female,No issues,,True
+143,161,1,22,pl-PL,3,3,0.0,,,,,,,,,,,,False
+144,162,2,99,pl-PL,2,1,0.75,1681.704296,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,19,Male,No,,True
+145,163,2,76,en-ZA,2,1,0.24,4126.596621,No,Airports close to the starting airport,Very enjoyable,Slightly useful,No,Yes,23,female,no,none,True
+146,164,1,66,en-ZA,1,0,1.31,3518.708382,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,24,Male,No,I enjoyed this a lot. It was a challenge to figure out the patterns to use.,True
+147,165,1,4,pl-PL,1,0,1.03,2120.285315,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,18,Male,No,Everything was good,True
+148,166,0,80,en-ZA,2,1,1.21,4440.443482,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,21,Femaul,No,Pretty straight forward once you know how to get the most profit,True
+149,167,1,96,en-GB,2,1,0.89,2552.636346,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,28,F,no,no,True
+150,168,2,86,pt-PT,3,2,0.63,2469.184102,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,19,female,no,no,True
+151,169,1,7,en,2,1,1.08,3857.379828,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,29,Female,,,True
+152,170,1,69,pl-PL,1,0,0.63,5760.400499,No,It doesn't matter,Very enjoyable,Very useful,Yes,Yes,21,Male,"No, thanks",Thanks for interesting study.,True
+153,171,0,74,en-US,2,1,0.45,3036.345078,No,It doesn't matter,Slightly enjoyable,Very useful,No,Yes,26,Male,"No, no issues at all.",,True
+154,172,0,32,pl-PL,1,0,1.36,2315.933912,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,42,Female,No,That was great ,True
+155,173,2,56,ru-RU,3,3,0.0,,,,,,,,,,,,False
+156,174,2,95,en-US,1,0,0.91,2828.320472,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,30,Female,No,,True
+157,175,1,24,pt-PT,8,1,0.05,3972.03275,Yes,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,53,Male,No,,True
+158,176,0,53,en-GB,1,0,1.0,866.142527,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,27,Male,None,,True
+159,177,0,66,en-US,1,0,0.98,1853.580784,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,20,female,none,,True
+160,178,2,98,pl,2,1,1.61,1934.37516,Yes,It doesn't matter,Not enjoyable,Not useful,No,Yes,21,men,No,Im good thanks,True
+161,179,1,72,en-US,1,0,1.04,2526.395862,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,22,genderqueer,I didn't!,,True
+162,180,2,36,pt-BR,1,0,1.14,1882.519,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,24,Female,No,,True
+163,181,2,58,en-US,1,0,0.71,2064.99855,No,It doesn't matter,Not enjoyable,Slightly useful,No,Yes,31,Female,No.,No.,True
+164,182,2,98,es-ES,3,3,0.0,,,,,,,,,,,,False
+165,184,1,38,en-US,1,0,1.04,2615.293458,No,Airports far from the starting airport,Not enjoyable,Slightly useful,No,Yes,31,Male,It was very frustrating,,True
+166,185,2,52,en-US,1,0,1.25,2420.544624,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,24,Female,No,N/A,True
+167,187,2,48,es-ES,2,1,1.12,2400.315125,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,30,woman,no,no,True
+168,188,2,28,en-US,1,0,1.01,2390.329593,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,18,male,,,True
+169,189,0,9,en-GB,3,2,0.28,1330.640486,No,Airports close to the starting airport,Slightly enjoyable,Very useful,No,Yes,23,Male,No :),,True
+170,190,0,3,en-US,3,2,0.87,1714.276765,No,Airports close to the starting airport,Very enjoyable,Slightly useful,No,Yes,21,female,no,none,True
+171,191,0,30,en-NZ,3,2,0.62,1394.922739,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,24,female,no,have a great day :),True
+172,192,2,83,pl-PL,2,1,0.8,3113.320332,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,32,male,,,True
+173,193,1,35,it-IT,2,1,1.0,3067.319624,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,47,uomo,no,Grazie,True
+174,194,1,62,en-US,6,2,0.96,2362.238424,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,34,female,n/a,n/a,True
+175,195,2,10,it-IT,1,0,1.32,2007.132593,No,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,22,Male,No,,True
+176,196,2,80,pl-PL,3,2,1.03,1890.071053,No,Airports close to the starting airport,Slightly enjoyable,Not useful,No,Yes,20,male,,,True
+177,197,0,96,en-US,2,1,0.77,,Yes,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,24,Male,No.,None.,True
+178,198,1,18,en-US,2,1,0.0,,,,,,,,,,,,False
+179,199,2,13,es-ES,1,0,0.0,1739.363291,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,35,man,no,no,True
+180,200,0,24,it-IT,1,0,0.9,1590.957921,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,27,Female,"No, very clear",,True
+181,201,2,17,en-US,2,1,0.41,3664.877607,Yes,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,35,fEMALR,No,,True
+182,202,0,47,sl-SI,2,1,0.0,,,,,,,,,,,,False
+183,203,1,54,en-US,2,1,0.94,5260.139228,Yes,It doesn't matter,Slightly enjoyable,Not useful,No,Yes,33,Female,No,,True
+184,204,2,14,es-ES,1,1,0.0,,,,,,,,,,,,False
+185,205,2,6,en-US,5,2,0.0,,,,,,,,,,,,False
+186,206,2,4,pt-PT,3,3,0.0,,,,,,,,,,,,False
+187,207,0,62,pt-PT,2,1,0.6,1177.983202,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,23,Male,No,,True
+188,208,0,45,en-US,3,3,0.0,,,,,,,,,,,,False
+189,209,2,97,en-US,1,0,0.78,2401.174853,No,Airports far from the starting airport,Not enjoyable,Not useful,No,Yes,23,Genderfluid,,,True
+190,211,1,70,en-US,1,0,1.25,2503.068468,Yes,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,31,Male,"The feedback gave in the the tutorial is something not understandable. Sometimes the airport that should be discovered according to it is debatable. Since it is planning, there is no perfect time to really start moving and say that we should or not discover more first.",The video tutorial should show the highlighted points and also describe why there are choosing that specific airport to discover,True
+191,212,0,17,it-IT,1,0,0.4,2007.074533,No,Airports close to the starting airport,Slightly enjoyable,Slightly useful,No,Yes,32,male,no,,True
+192,213,2,18,en-ZA,1,0,1.24,3554.313312,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,53,Female,no,none,True
+193,214,0,94,it-IT,3,3,0.0,,,,,,,,,,,,False
+194,215,2,80,en-US,3,3,0.0,,,,,,,,,,,,False
+195,216,0,0,it-IT,1,0,1.44,866.522651,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,24,Male,,,True
+196,217,0,22,pl-PL,7,0,1.59,3623.451543,Yes,Airports close to the starting airport,Slightly enjoyable,Very useful,No,Yes,37,male,no,no,True
+197,218,0,29,en-GB,3,2,0.43,2796.987457,Yes,Airports close to the starting airport,Slightly enjoyable,Slightly useful,No,Yes,26,male,no,thank you so much,True
+198,219,1,75,it-IT,2,1,0.87,3255.660132,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,21,male,no,no,True
+199,220,2,53,en-GB,3,3,0.0,,,,,,,,,,,,False
+200,221,1,50,it-IT,2,1,1.23,7539.055787,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,29,Female,,,True
+201,222,2,91,pl-PL,1,0,1.51,1614.053585,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,18,Male,No,No,True
+202,223,0,37,pt-PT,2,1,0.0,,,,,,,,,,,,False
+203,224,0,15,it-IT,2,1,0.68,1425.952977,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,34,Female,No,Not really,True
+204,225,0,90,en-US,1,0,0.55,2127.895042,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,20,female,No,,True
+205,226,0,1,en-GB,2,1,0.51,1638.859195,No,It doesn't matter,Slightly enjoyable,Very useful,Yes,Yes,21,female,no,no,True
+206,227,1,59,it-IT,1,0,0.95,2520.406701,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,24,male,not at all,it was very fun and I love this kind of interactive experiments,True
+207,228,1,49,es-ES,2,1,0.66,3064.927476,Yes,It doesn't matter,Very enjoyable,Not useful,No,Yes,20,male,no,"no, thanks",True
+208,229,2,29,pl,2,1,1.38,1465.936468,Yes,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,21,male,,,True
+209,230,1,28,pt-PT,2,1,0.76,2304.97187,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,21,Female,I did not.,,True
+210,231,2,53,pt-PT,2,1,0.78,2177.948603,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,30,Male,Not really,Everything went great,True
+211,232,0,69,hu-HU,1,0,1.39,2054.380514,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,26,Female,No,,True
+212,233,1,29,pt-PT,1,0,0.87,2560.875878,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,31,Male,No,"Made a mistake in the last one, chose everything in lane 2, and started moving to lane 1 by missclicking the number.",True
+213,234,0,97,en-US,5,0,0.01,1437.772046,Yes,It doesn't matter,Not enjoyable,Slightly useful,No,Yes,28,Male,No,No,True
+214,235,1,99,pl-PL,2,2,0.0,,,,,,,,,,,,False
+215,236,0,4,en-US,1,0,1.67,2551.815102,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,Yes,Yes,21,Male,No. ,It was too long bc i get addicted from such tests where you can think more to earn more,True
+216,237,1,54,en-US,1,0,0.82,4556.252228,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,25,female,NO,,True
+217,238,0,75,hu,3,3,0.0,,,,,,,,,,,,False
+218,239,1,89,es-ES,1,0,1.11,2504.985645,Yes,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,20,Male,No,,True
+219,240,2,60,en-US,1,0,0.95,1954.634496,Yes,It doesn't matter,Slightly enjoyable,Very useful,No,Yes,24,Male,No issues!,Thank you for the study!,True
+220,241,1,73,en-US,1,0,1.16,4349.987109,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,31,Male,,,True
+221,243,2,68,pl,1,0,1.05,2655.43274,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,25,male,not at all,"kind regards, michal boguslawski",True
+222,244,1,79,pl-PL,9,2,0.0,,,,,,,,,,,,False
+223,245,0,60,pt-PT,3,2,0.0,,,,,,,,,,,,False
+224,246,0,67,es-ES,2,1,1.55,3491.702021,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,25,male,no,"no, its all ok",True
+225,247,2,30,en-US,3,2,0.1,2806.744439,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,25,female,no,,True
+226,248,1,67,cs,1,0,0.77,3029.20817,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,22,woman,It kept telling me to choose whatever blue dot I want but when I chose one it said it was the wrong one.,,True
+227,249,2,92,en-US,2,1,0.96,2800.940104,No,It doesn't matter,Not enjoyable,Slightly useful,No,Yes,27,Female,No.,,True
+228,250,1,33,en-ZA,3,2,1.1,2783.493316,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,18,Woman,no,no,True
+229,251,2,65,hu-HU,5,1,1.28,1978.91421,Yes,Airports close to the starting airport,Very enjoyable,Slightly useful,No,Yes,20,male,no,it was okey,True
+230,252,0,57,en-ZA,1,0,1.36,2273.071409,Yes,Airports close to the starting airport,Slightly enjoyable,Very useful,No,Yes,24,Female,No issues,Everything worked out well.,True
+231,253,0,82,en,1,0,0.0,,,,,,,,,,,,False
+232,254,0,8,en-US,1,0,1.14,2914.603354,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,26,female,no,no,True
+233,255,0,49,en-US,1,0,1.18,974.551817,Yes,Airports far from the starting airport,Very enjoyable,Very useful,Yes,Yes,38,male,,,True
+234,256,2,49,en-US,1,0,0.85,1515.136429,No,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,22,female,,,True
+235,257,1,80,es-ES,1,0,0.0,,,,,,,,,,,,False
+236,258,2,38,cs-CZ,3,3,0.0,,,,,,,,,,,,False
+237,259,0,12,tr-TR,1,0,0.74,1026.306188,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,27,Male,No,Enjoyable!,True
+238,260,0,86,en-US,2,2,0.0,,,,,,,,,,,,False
+239,261,1,56,en-US,1,0,0.0,1778.01954,Yes,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,29,male,No.,,True
+240,262,2,15,en-US,2,1,0.71,1918.946018,Yes,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,23,Female,"When I clicked the wrong nod it just told me it was wrong without telling me why it was the wrong one. It did not make me realize what the real strategy of checking the nods was, so I had to make up my own strategy. and go for it. As matter of fact I only checked destination nod, the middle one and the bottom one and choose the one with the best profit or the one where I lost less money.",,True
+241,263,0,68,hu-HU,2,1,1.07,1536.210057,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,27,Female,no i did not,no i don't have,True
+242,264,1,44,pt-PT,2,1,0.79,2316.521877,No,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,38,Male,no,,True
+243,265,2,43,en-US,3,2,0.45,4648.741898,Yes,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,34,Female,"No, but it was quiet challenging",I really need more surveys like this,True
+244,267,1,7,et-EE,1,0,1.2,3139.112742,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,18,none,,,True
+245,268,1,18,en-US,3,3,0.0,,,,,,,,,,,,False
+246,269,1,92,pt-PT,1,0,0.98,2338.199198,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,29,Female,No issues,,True
+247,271,0,78,en-US,1,0,0.39,981.214879,No,Airports close to the starting airport,Very enjoyable,Very useful,Yes,Yes,21,Male,,,True
+248,272,1,88,it-IT,2,1,1.18,2868.071381,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,23,Female,"No, I didn't.",The experiment was so fun and interesting! Thank you.,True
+249,273,2,79,en-ZA,1,0,0.42,4789.748385,Yes,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,24,FEMALE,NO,The study was a good brain exercise. Enjoyed it a lot!,True
+250,274,0,63,en-GB,2,1,0.17,1202.340279,No,Airports close to the starting airport,Slightly enjoyable,Very useful,No,Yes,21,male,no,,True
+251,275,1,45,it-IT,2,1,0.91,2090.134059,Yes,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,34,male,no issues at all,everything was smooth and clear,True
+252,276,1,95,pl-PL,1,0,1.12,2389.927344,Yes,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,21,female,no,no,True
+253,277,1,14,en-GB,1,0,0.84,1893.667725,No,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,29,male,,,True
+254,278,2,24,pl-PL,2,1,1.05,5777.582169,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,29,male,,,True
+255,279,1,27,pt-PT,3,3,0.0,,,,,,,,,,,,False
+256,280,0,1,pt-PT,1,0,0.58,1217.926583,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,22,Male,No,,True
+257,281,2,27,es-ES,3,3,0.0,,,,,,,,,,,,False
+258,282,1,94,en-US,3,3,0.0,,,,,,,,,,,,False
+259,283,0,8,en-GB,1,0,1.02,2276.776442,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,37,Male,No the experience was very good,thank for the study,True
+260,284,1,25,en-US,1,0,1.09,2586.48097,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,27,Male,No,,True
+261,285,2,8,pl-PL,1,0,1.22,1679.861181,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,30,male,"no, everything was fine","no, thank you I had a good time doing the experiment",True
+262,286,0,98,en-ZA,1,0,0.49,1408.810162,No,It doesn't matter,Slightly enjoyable,Very useful,No,Yes,25,Male ,No,That was a fun experiment,True
+263,287,0,71,en-GB,1,1,0.0,,,,,,,,,,,,False
+264,288,1,10,pt-PT,2,2,0.0,,,,,,,,,,,,False
+265,289,0,70,pl-PL,2,2,0.0,,,,,,,,,,,,False
+266,290,0,48,it-IT,3,2,0.6,1302.316618,No,Airports close to the starting airport,Very enjoyable,Slightly useful,No,Yes,23,female,no ,,True
+267,291,0,68,it-IT,1,0,0.85,1092.87484,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,34,male,i didn't get that if you don't click any dots you collect no money; it was clear only during training,it was fun ,True
+268,292,1,42,pt-PT,2,1,1.04,1551.050445,Yes,Airports far from the starting airport,Very enjoyable,Very useful,Yes,Yes,23,female,no,,True
+269,293,1,31,en-US,3,3,0.0,,,,,,,,,,,,False
+270,296,0,7,en-ZA,3,3,0.0,,,,,,,,,,,,False
+271,297,2,46,en-US,3,2,1.56,4565.854255,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,23,female,No,,True
+272,299,1,11,et-ee,1,0,0.89,3161.759538,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,18,Female,"No, there were to issues",,True
+273,300,1,6,el-GR,1,0,1.05,3571.66672,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,50,male,no,keep up the good work ,True
+274,301,1,65,pl-PL,1,0,0.94,1786.371248,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,19,Male,No,,True
+275,302,0,73,pt-PT,1,1,0.0,,,,,,,,,,,,False
+276,303,0,14,en-GB,2,1,0.13,1010.787607,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,40,female,no,That was fun,True
+277,304,1,82,pt-PT,8,1,0.0,,,,,,,,,,,,False
+278,305,1,66,en-US,1,0,0.0,,,,,,,,,,,,False
+279,306,1,76,en,1,0,1.13,1692.011272,Yes,Airports far from the starting airport,Not enjoyable,Slightly useful,No,Yes,20,female,I didnt uderstand the logics of mu tutor,,True
+280,307,2,34,en-GB,6,3,0.0,,,,,,,,,,,,False
+281,308,1,19,en-US,2,1,1.16,1919.896652,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,37,Male,,,True
+282,309,1,28,pt-BR,1,0,0.86,2458.830602,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,30,female,no,,True
+283,310,0,35,es-ES,1,0,0.5,876.87263,No,It doesn't matter,Not enjoyable,Slightly useful,No,Yes,24,Male,I did not get any feedback,,True
+284,311,0,54,es-ES,3,3,0.0,,,,,,,,,,,,False
+285,312,2,9,pl-PL,2,1,1.08,1430.195973,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,24,Male,No everything went smoothly,Don;t have any,True
+286,313,0,56,en-US,2,1,1.5,2666.748494,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,22,Female,no,none,True
+287,314,2,20,en-US,1,0,1.26,2146.32075,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,38,female,no,,True
+288,315,1,77,pl-PL,1,0,0.0,,,,,,,,,,,,False
+289,316,0,84,it-IT,1,0,0.0,,,,,,,,,,,,False
+290,317,0,17,en-US,1,0,1.44,2407.92137,No,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,23,Female ,NO,,True
+291,318,0,10,pl-PL,1,0,1.24,1118.874217,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,26,Male,"No, I did not experience any issues.",I do not have any further comments.,True
+292,319,2,60,en-US,1,0,0.92,1434.427947,No,It doesn't matter,Not enjoyable,Slightly useful,No,Yes,34,Female,No,"When the tutor would say that I should have picked the other node ... when we were just starting and it didn't really matter or when I had JUST picked that node and been told I should have picked a different one, it was infuriating. It was also not helpful that it never told you WHY it should have been a different pick.",True
+293,320,0,51,es-ES,1,0,1.58,1655.271198,No,Airports close to the starting airport,Very enjoyable,Very useful,Yes,Yes,27,Female,No,,True
+294,321,2,48,en-US,3,3,0.0,,,,,,,,,,,,False
+295,323,1,59,en-GB,1,0,1.08,5219.932535,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,20,Female,I experienced no issues,,True
+296,324,1,21,pl-PL,1,0,0.0,,,,,,,,,,,,False
+297,325,2,96,en-GB,3,3,0.0,,,,,,,,,,,,False
+298,326,0,95,en-US,1,0,0.0,,,,,,,,,,,,False
+299,327,1,72,en-US,3,3,0.0,,,,,,,,,,,,False
+300,328,1,52,en-ZA,3,3,0.0,,,,,,,,,,,,False
+301,329,1,97,pl-PL,5,1,0.54,3848.587004,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,20,male,,,True
+302,330,0,84,en-GB,2,1,0.96,2260.656743,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,27,Male,"No, I didn't ",it was a fun experiment hope you develop a game like it would enjoy playing it,True
+303,331,0,36,en-US,1,0,0.36,690.817371,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,19,Female,No,No,True
+304,332,2,78,it-IT,1,0,0.8,2336.326772,Yes,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,32,male,no,,True
+305,333,2,37,en-US,2,2,0.0,,,,,,,,,,,,False
+306,334,1,86,en-US,1,0,0.84,3775.583586,Yes,Airports far from the starting airport,Not enjoyable,Not useful,No,Yes,22,Male,Nope,,True
+307,335,2,23,en-US,4,0,0.0,2334.828978,Yes,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,51,Female,No,No,True
+308,336,2,93,hu-HU,1,0,1.33,1906.347809,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,40,male,"No, I didn't.","No, thank you. Have a nice day!",True
+309,337,1,57,en-US,3,3,0.0,,,,,,,,,,,,False
+310,338,2,31,pl,3,3,0.0,,,,,,,,,,,,False
+311,339,0,25,en-US,1,0,0.64,1545.654521,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,22,Female,no,"I really enjoyed this game. If it had an app, I would download it!",True
+312,340,2,32,pl-PL,1,0,1.51,1871.898274,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,19,Male,No,It was fun,True
+313,341,2,40,en-US,5,1,0.0,,,,,,,,,,,,False
+314,342,2,3,it-IT,2,2,0.0,,,,,,,,,,,,False
+315,343,1,58,en-US,1,0,1.14,4680.439093,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,23,Male,No,It was fun,True
+316,344,0,79,en-US,1,0,1.3,1292.051208,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,25,male,No,none,True
+317,345,2,89,en-US,4,1,0.0,,,,,,,,,,,,False
+318,346,1,83,en-US,3,3,0.0,,,,,,,,,,,,False
+319,347,1,50,en-GB,2,1,1.08,3364.07441,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,32,female,,,True
+320,348,2,28,it-IT,2,1,1.2,2794.242099,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,22,Male,It was all clear,,True
+321,349,2,81,lv,3,3,0.0,,,,,,,,,,,,False
+322,350,1,3,en-US,3,2,0.97,3199.150896,Yes,It doesn't matter,Slightly enjoyable,Very useful,No,Yes,34,F,NO ,Enjoyed it ,True
+323,352,0,51,fr-FR,4,0,1.48,1163.813204,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,24,Male,no,no,True
+324,353,2,45,en-US,1,0,1.3,4066.35358,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,22,Female,no,,True
+325,354,1,23,en-GB,3,2,1.11,3061.030543,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,22,Male,No,It was really fun,True
+326,355,0,5,en-US,1,0,0.9,1266.484979,No,It doesn't matter,Slightly enjoyable,Very useful,No,Yes,29,Male,No,It was pretty fun. I think I could've gotten a higher reward but if I found a good path I didn't want to sacrifice more money to check others in case it was just a waste.,True
+327,356,1,65,en-ZA,4,0,1.0,5569.599204,No,It doesn't matter,Slightly enjoyable,Very useful,No,Yes,21,Female,NO,,True
+328,357,1,81,en-US,1,0,0.68,4683.63493,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,29,Female,None,Good game,True
+329,358,1,9,en-US,8,1,0.73,4149.224534,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,39,male,No issues.,,True
+330,359,2,90,it-IT,2,1,0.88,2763.086997,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,37,femmina,no,no,True
+331,360,2,73,en-US,2,1,1.55,4878.174657,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,25,Female,none,none,True
+332,361,2,82,en-ZA,3,3,0.0,,,,,,,,,,,,False
+333,362,0,99,en-US,1,0,0.17,1192.840552,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,30,Male,No issues,"Interesting experiment, would have actually liked for this to last a bit longer to try out some more approaches! ",True
+334,363,1,60,pl-PL,9,2,0.0,,,,,,,,,,,,False
+335,364,0,39,en-ZA,2,1,1.73,3209.432117,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,36,Female,No,Interesting game!,True
+336,365,2,34,el-GR,3,2,0.71,2821.307242,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,26,Female,Nothing at all,"At first It was really hard, but after I found a strategy it was quite fun. ",True
+337,366,2,0,en-US,6,3,0.0,,,,,,,,,,,,False
+338,367,1,44,en-US,3,2,0.82,2764.348082,Yes,It doesn't matter,Not enjoyable,Not useful,No,Yes,30,Male,I think just not agreeing on what should be next,Very unique game,True
+339,368,0,16,pt-PT,3,2,0.59,1598.539837,No,Airports close to the starting airport,Slightly enjoyable,Very useful,No,Yes,28,female,,,True
+340,369,0,2,en-ZA,3,2,1.45,5355.624176,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,25,female,No,No,True
+341,370,1,55,en-ZA,3,2,0.8,6177.116353,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,23,female,"No, I did not.",,True
+342,371,0,87,en-US,3,0,1.06,3075.390509,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,29,Male,No,No,False
+343,372,2,66,pt-PT,3,2,1.23,2361.914407,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,28,Male,"I have some dificulties on the begining with the hightlights click ones, i didnt understand very well. Apart from that was a very enjoyable experience.",,True
+344,373,1,53,es-ES,3,2,0.74,2246.997969,Yes,Airports far from the starting airport,Not enjoyable,Slightly useful,No,Yes,22,Male,No,The strategies were a bit confusing and it looked like i din't have a real choice,True
+345,374,2,51,en-US,4,0,1.23,2981.660534,No,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,24,Male,it wasn't clear why some blue points were better to explore first ,,True
+346,375,0,29,it-IT,1,0,1.5,1886.765644,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,24,Male,no,,True
+347,376,1,13,it-IT,1,0,1.15,2387.553749,No,It doesn't matter,Not enjoyable,Slightly useful,No,Yes,25,Man,No,Sometimes i needed to click sometimes because the imput didn't work,True
+348,377,2,19,en-US,1,0,0.83,2609.024931,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,24,Male,No,The experiment was very interesting and mind exercising,True
+349,378,2,55,en-US,2,1,0.86,2253.207352,No,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,32,male,,,True
+350,379,0,10,en-US,3,3,0.0,,,,,,,,,,,,False
+351,380,2,87,hu-HU,1,0,0.88,2316.749435,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,31,female,No.,"Thank you, I really enjoyed this study.",True
+352,381,2,47,en-GB,3,3,0.0,,,,,,,,,,,,False
+353,382,1,8,en-US,1,0,0.66,5862.698699,Yes,Airports close to the starting airport,Very enjoyable,Slightly useful,No,Yes,28,Female,Great research,,True
+354,383,0,70,en-US,2,1,1.42,2112.874626,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,27,Male,No,Cool experiment,True
+355,384,0,91,en-US,1,0,1.57,1970.79618,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,32,male,no,,True
+356,385,1,0,pt-PT,3,2,1.12,2295.200155,Yes,It doesn't matter,Very enjoyable,Slightly useful,No,Yes,21,Male,No,Good Study,True
+357,386,2,12,it-IT,1,0,0.35,2328.641723,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,34,MALE,,,True
+358,387,1,49,en-ZA,3,3,0.0,,,,,,,,,,,,False
+359,388,1,64,sv-SE,1,0,0.0,,,,,,,,,,,,False
+360,389,2,70,en-US,2,1,1.47,4307.402222,No,It doesn't matter,Not enjoyable,Not useful,Yes,Yes,21,Male,"No, but the training exercises were confusing",,True
+361,390,0,40,en-GB,3,3,0.0,,,,,,,,,,,,False
+362,391,0,79,en-ZA,3,2,0.79,1690.884157,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,25,female,no,,True
+363,392,2,57,en-US,1,0,1.17,3749.059801,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,51,Female,No.,It was a fun experience!,True
+364,393,2,67,lv-LV,3,3,0.0,,,,,,,,,,,,False
+365,394,0,83,en-US,1,0,0.0,,,,,,,,,,,,False
+366,395,0,46,en-GB,2,1,1.0,2266.123941,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,39,Female,No,I really enjoyed this!,True
+367,396,2,44,en-US,2,2,0.0,,,,,,,,,,,,False
+368,397,1,2,en-GB,1,0,0.65,3699.374305,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,31,Female,no,,True
+369,398,2,9,en-GB,3,2,0.81,4870.574011,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,40,Female,Not at all.,"What a nice study. At first, it was a bit confusing but I caught on with more practice. ",True
+370,399,0,19,pl-PL,4,1,0.0,,,,,,,,,,,,False
+371,400,0,37,en-US,6,2,1.28,3687.000481,Yes,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,36,male,no issues,thank you,True
+372,401,1,69,en-US,6,0,0.0,,,,,,,,,,,,False
+373,402,2,22,en-US,2,1,0.98,2720.385161,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,30,male,no,this was an interesting study it made me apply a lot of maths look at how much i can lose but at the same time how much i can gain from that lose ,True
+374,403,1,71,en-ZA,10,0,0.57,6493.556237,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,24,male,no,"game was good, it teaches people to have patience.",True
+375,404,0,34,en-GB,3,3,0.0,,,,,,,,,,,,False
+376,405,2,54,pt-PT,3,3,0.0,,,,,,,,,,,,False
+377,406,2,84,en-US,3,2,0.66,3037.830321,Yes,Airports close to the starting airport,Slightly enjoyable,Very useful,No,Yes,31,male,no,was a bit tricky but i understood the task at the end,True
+378,407,1,84,pt-PT,3,2,0.76,2470.524598,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,39,Male,,,True
+379,408,1,93,sl-SI,3,2,1.1,2587.053175,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,28,female,no,none,True
+380,409,1,42,en-US,1,0,1.0,2442.84043,Yes,Airports far from the starting airport,Very enjoyable,Not useful,No,Yes,20,Male,,,True
+381,410,0,76,en-US,3,3,0.0,,,,,,,,,,,,False
+382,411,0,64,en-GB,3,3,0.0,,,,,,,,,,,,False
+383,412,1,71,es-ES,2,1,1.02,2509.766118,No,It doesn't matter,Slightly enjoyable,Very useful,No,Yes,41,male,No,,True
+384,413,2,41,pt-PT,4,1,0.0,,,,,,,,,,,,False
+385,414,0,57,en-US,1,0,0.03,2335.116416,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,Yes,Yes,27,male,no,none,True
+386,415,2,74,pl-PL,3,2,0.22,3608.85966,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,31,male,nope,,True
+387,416,1,63,it,5,1,0.0,,,,,,,,,,,,False
+388,417,2,62,pl-PL,1,0,1.09,1875.43954,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,19,male,No,"Thanks for the survey, it was fun :)",True
+389,418,2,96,en-ZA,3,2,0.0,,,,,,,,,,,,False
+390,419,2,74,en-US,1,0,1.43,2648.929115,Yes,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,26,female,no,good luck!,True
+391,420,0,63,pl-PL,1,0,0.74,1431.189996,No,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,21,female,,,True
+392,421,0,80,pt-PT,1,0,1.33,2273.197963,No,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,18,female,no,no,True
+393,422,2,95,it-IT,1,0,1.31,2204.11734,No,It doesn't matter,Very enjoyable,Not useful,No,Yes,29,male,no,no,True
+394,423,1,40,pl,1,0,1.0,3007.725431,No,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,20,male,no,no,True
+395,424,1,23,en-US,5,1,0.61,5242.134982,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,32,Female,,,True
+396,425,1,35,es-ES,3,2,0.0,,,,,,,,,,,,False
+397,426,2,72,el-GR,3,2,0.46,2180.559574,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,35,Male,No,Good luck!,True
+398,427,0,6,en-US,2,1,1.09,3518.961752,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,33,female,N/A,Very enjoyable study. Best of luck with your research.,True
+399,428,2,46,pt-PT,1,0,1.1,2296.01571,No,Airports far from the starting airport,Slightly enjoyable,Not useful,No,Yes,24,Female,No.,"I loved this experiment, very fun and challenging!",True
+400,429,1,20,en-US,3,3,0.0,,,,,,,,,,,,False
+401,430,2,15,es-ES,2,1,0.69,2383.463119,Yes,Airports close to the starting airport,Slightly enjoyable,Very useful,No,Yes,41,Male,No,,True
+402,431,0,23,en-US,1,0,0.12,949.422501,No,It doesn't matter,Slightly enjoyable,Very useful,No,Yes,36,Female,No,I quite enjoyed this.,True
+403,432,0,61,es-ES,2,1,0.85,1927.766379,No,Airports close to the starting airport,Slightly enjoyable,Very useful,No,Yes,25,male,No.,No.,True
+404,433,0,38,en-US,3,3,0.0,,,,,,,,,,,,False
+405,434,0,95,en-US,1,1,0.0,,,,,,,,,,,,False
+406,435,0,62,it-IT,1,0,0.77,2269.252024,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,26,male,no,interface is very slow,True
+407,436,2,3,en-US,2,1,1.05,2678.11055,No,Airports far from the starting airport,Very enjoyable,Slightly useful,No,Yes,22,Male,None,None,True
+408,437,0,13,en-ZA,3,3,0.0,,,,,,,,,,,,False
+409,438,0,85,pl,1,0,0.13,1557.322837,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,33,male,,,True
+410,439,1,1,en-GB,2,1,0.0,,,,,,,,,,,,False
+411,440,0,15,el-GR,4,0,0.39,1627.176976,Yes,Airports close to the starting airport,Slightly enjoyable,Slightly useful,No,Yes,21,Female,No,,True
+412,441,0,14,it-IT,3,3,0.0,,,,,,,,,,,,False
+413,442,0,25,pl,2,1,0.88,1480.734301,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,31,Male,everything was ok ;-),"very interesting study, I finished it with pleasure! ;-)",True
+414,443,1,73,en-US,2,1,0.89,5819.424609,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,21,Male,no everything was fine,I really enjoyed the survey,True
+415,444,0,2,en-US,3,3,0.0,,,,,,,,,,,,False
+416,445,0,34,en-US,3,3,0.0,,,,,,,,,,,,False
+417,446,1,20,pl-PL,2,1,1.14,3264.132622,Yes,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,26,Male,None,"
+Really interesting studies",True
+418,447,1,8,en-US,2,1,1.26,5400.37615,Yes,It doesn't matter,Slightly enjoyable,Not useful,No,Yes,25,Female,no,it was complicated but engaging,True
+419,448,1,86,it-IT,1,0,1.18,2329.571299,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,21,Male,no,,True
+420,449,1,16,en-GB,3,2,0.0,,,,,,,,,,,,False
+421,450,2,31,en-GB,1,0,0.0,3037.573217,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,27,female,no,it was a wonderful experience and i enjoyed it,True
+422,451,1,31,pt-PT,2,2,0.0,,,,,,,,,,,,False
+423,453,0,92,en-US,3,3,0.0,,,,,,,,,,,,False
+424,454,0,21,en-US,1,0,1.3,2630.976284,Yes,Airports close to the starting airport,Very enjoyable,Slightly useful,No,Yes,29,male,no,,True
+425,455,0,47,it-IT,1,0,0.74,1312.565012,No,Airports far from the starting airport,Slightly enjoyable,Slightly useful,No,Yes,22,female,no,no,True
+426,456,2,2,en-US,1,0,0.41,2419.709063,No,Airports close to the starting airport,Slightly enjoyable,Slightly useful,No,Yes,41,Female,No,,True
+427,457,0,50,pl-PL,1,0,1.74,2145.815396,Yes,It doesn't matter,Slightly enjoyable,Slightly useful,No,Yes,35,male,no,no,True
+428,458,1,78,pl-PL,2,1,0.83,2888.613193,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,26,Male,No ,No,True
+429,459,1,39,en-GB,3,2,1.05,3676.487184,No,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,23,Male,No,,True
+430,460,1,68,en-US,3,2,0.8,5024.576074,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,25,Female,No,,True
+431,461,0,55,en-US,3,3,0.0,,,,,,,,,,,,False
+432,462,0,49,en-US,1,0,1.49,1754.83131,No,Airports far from the starting airport,Very enjoyable,Very useful,No,Yes,24,Female,No,,True
+433,463,2,45,en-US,3,0,0.42,2776.292447,Yes,Airports close to the starting airport,Slightly enjoyable,Slightly useful,No,Yes,27,FEMALE,NO,THE GAME WAS FUN,True
+434,464,0,41,hu-HU,3,2,1.67,2649.667124,Yes,Airports far from the starting airport,Slightly enjoyable,Very useful,No,Yes,22,male,none,"Almost failed the experiment because I missunderstood the ""edge number"" thing. Somewhat my problem, not the experiment",True
+435,465,0,28,en-US,1,0,1.29,2945.939632,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,20,male,,The study was very well done and enjoyable and the time passed enjoyably ,True
+436,466,2,78,en-US,3,3,0.0,,,,,,,,,,,,False
+437,467,1,4,pl-PL,3,2,0.0,,,,,,,,,,,,False
+438,468,0,58,en-US,4,1,0.0,,,,,,,,,,,,False
+439,469,0,33,en-GB,3,2,0.09,2280.34912,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,37,Μαλε,Νο,Νο,True
+440,470,0,92,el-GR,1,0,0.59,1630.641349,No,It doesn't matter,Very enjoyable,Very useful,No,Yes,31,Male,None.,"No further comments, thanks.",True
+441,471,1,51,en-ZA,3,3,0.0,,,,,,,,,,,,False
+442,472,1,84,en-US,3,3,0.0,,,,,,,,,,,,False
+443,473,0,9,en-US,3,3,0.0,,,,,,,,,,,,False
+444,474,0,81,en-US,3,2,1.22,4294.775397,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,28,Female,No.,The experiment was very insightful and fun once you understood it.,True
+445,475,2,84,en-US,4,0,0.0,3665.702865,Yes,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,42,Male,No,,True
+446,476,1,51,en-GB,3,2,0.96,7477.286687,Yes,It doesn't matter,Very enjoyable,Very useful,No,Yes,41,female,none,great study,True
+447,477,2,82,en-US,3,2,0.46,2721.80704,Yes,Airports close to the starting airport,Very enjoyable,Very useful,Yes,Yes,40,Female,None,"Very enjoyable, needed to just use my planning skills and implement",True
+448,478,1,91,pt-PT,3,3,0.0,,,,,,,,,,,,False
+449,479,0,26,pt-PT,1,0,0.58,1865.350253,No,Airports close to the starting airport,Very enjoyable,Very useful,No,Yes,36,Female,No,Love this. Enjoyable and useful.,True

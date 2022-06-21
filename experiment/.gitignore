@@ -1,0 +1,8 @@
+*.pyc
+.psiturk_history
+server.log
+.ipynb_checkpoints/
+data/
+*.db
+.DS_Store
+#config.txt #TODO: it's a good idea to either add this to your gitignore or remove lines that you wouldn't wnat leaked (credentials, database URI)
