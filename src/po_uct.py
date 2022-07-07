@@ -1,3 +1,8 @@
+""" 
+This script implements PO-UCT from David Silver's "Monte-Carlo planning in large POMDPs" article. 
+The MCTS implementation is loosely based on a tutorial created by Tor Lattimore.
+"""
+
 from src.utils.mouselab_PAR import MouselabPar
 import random
 import numpy as np
