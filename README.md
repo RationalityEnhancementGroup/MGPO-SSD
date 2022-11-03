@@ -1,8 +1,22 @@
 # MGPO
 
+This repository contains data, analysis code, and the MGPO algorithms from the "Leveraging AI to improve human planning in large partially observable environments" article (under review).
+
+## Structure
+
+- The resultsdata from the simulation and human experiments, the pre-generated environment instances, and figures used in the article can be found in the ```data``` folder. 
+
+- The ```experiment``` folder contains the code required to run the human experiment.
+
+- The ```src``` folder contains the implementation of the meta-level MDP and the MGPO and baseline algorithms.
+
+- The top level folder contains additional notebooks used to analyze the experiment data.
+
+
 ## Algorithm
 
 The main algorithmic contributions can be found in two files. The meta-MDP is defined in ```src/utils/Mouselab_PAR.py```, which contains the belief state update in partially observable environments. The MGPO algorithm itself can be found in ```scr/po_BMPS.py```.
+
 ## Simulation
 
 To rerun the simulation experiment, run the following scripts. The evaluation will take a long time to run, it is recommended to split the computations in small chunks and use a computing cluster. Results are stored under ```data/tutor_experiment/```.
@@ -30,14 +44,7 @@ python -m src.myopic_cluster_eval 2 0.05 0 1
 
 ## Human experiment data and analysis
 
-To run the analysis script, run the following command from the main project folder.
-
-``` 
-python -m src.tutor_experiment_analysis 
-```
-
-This will save the participant responses into the files:
-
+The results of the human experiment can be found in the following files:
 ```
 data
 └───tutor_experiment
@@ -46,12 +53,19 @@ data
 |   |   tutor_experiment_full_data.csv
 ```
 
-Further data analysis and statistics can be found in the files:
+to generate the result files from the raw data retrieved from the database the following script was used:
+``` 
+python -m src.tutor_experiment_analysis 
+```
+
+Data analysis and statistical analysis can be found in the files:
 
 ```
 experiment_analysis.ipynb
 experiment_analysis.R
 ```
+
+The experiment's preregistration can be found under [https://aspredicted.org/RL3_YDD](https://aspredicted.org/RL3_YDD).
 
 ## Human experiment
 
@@ -63,4 +77,4 @@ cd experiment
 python -m http.server
 ```
 
-Before deploying the experiment, it is important to comment out line 60-61 in ```experiment/static/js/experiment.js``` since a balanced condition assignment will be handled through PsiTurk.
+We used Heroku to host the experiment and Prolific to recruit participants. Before deploying the experiment, it is important to comment out line 60-61 in ```experiment/static/js/experiment.js``` since a balanced condition assignment will be handled through PsiTurk.
