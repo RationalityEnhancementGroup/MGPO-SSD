@@ -19,7 +19,7 @@ The main algorithmic contributions can be found in two files. The meta-MDP is de
 
 ## Simulation
 
-To rerun the simulation experiment, run the following scripts. The evaluation will take a long time to run, it is recommended to split the computations in small chunks and use a computing cluster. Results are stored under ```data/tutor_experiment/```.
+To rerun the simulation experiment, run the following scripts. The evaluation will take a long time to run, it is recommended to split the computations in small chunks and use a computing cluster. Results are stored under ```data/simulation_results/```.
 
 ### Meta-greedy baseline policy
 
@@ -76,5 +76,7 @@ To run the experiment locally, run the commands in the command line and open htt
 cd experiment
 python -m http.server
 ```
+
+The environment instances used in the environment are stored under ```data/environments```.
 
 We used Heroku to host the experiment and Prolific to recruit participants. Before deploying the experiment, it is important to comment out line 60-61 in ```experiment/static/js/experiment.js``` since a balanced condition assignment will be handled through PsiTurk.
