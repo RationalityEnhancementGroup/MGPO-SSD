@@ -21,6 +21,13 @@ The main algorithmic contributions can be found in two files. The meta-MDP is de
 
 To rerun the simulation experiment, run the following scripts. The evaluation will take a long time to run, it is recommended to split the computations in small chunks and use a computing cluster. Results are stored under ```data/simulation_results/```.
 
+Data analysis and statistical analysis can be found in the files:
+
+```
+simulation_data_analysis.ipynb
+simulation_analysis.R
+```
+
 ### Meta-greedy baseline policy
 
 To reproduce the evaluation results, run the script for 5000 steps with each of the 4 evaluation environments ```["2_36", "3_54", "4_72", "5_90"]``` and cost parameters ```[0.05, 1]```. Example use: 
