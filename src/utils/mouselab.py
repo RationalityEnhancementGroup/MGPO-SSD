@@ -5,7 +5,6 @@ from src.utils.distributions import smax, cmax, sample, expectation, Normal, Poi
 from toolz import get, memoize
 
 import random
-from contracts import contract
 import networkx as nx
 
 
@@ -205,31 +204,27 @@ class MouselabEnv(gym.Env):
         return self.node_value_to(node, state) + self.node_value(node, state)
 
     # @lru_cache(CACHE_SIZE)
-    @contract
-    def myopic_voc(self, action, state) -> 'float, >= -0.001':
+    def myopic_voc(self, action, state):
         return (self.node_value_after_observe((action,), 0, state).expectation()
                 - self.expected_term_reward(state)
                 )
 
     # @lru_cache(CACHE_SIZE)
-    @contract
-    def vpi_branch(self, action, state) -> 'float, >= -0.001':
+    def vpi_branch(self, action, state):
         obs = self._relevant_subtree(action)
         return (self.node_value_after_observe(obs, 0, state).expectation()
                 - self.expected_term_reward(state)
                 )
     
     @lru_cache(CACHE_SIZE)
-    @contract
-    def vpi_action(self, action, state) -> 'float, >= -0.001':
+    def vpi_action(self, action, state):
         obs = (*self.subtree[action][1:], *self.path_to(action)[1:])
         return (self.node_value_after_observe(obs, 0, state).expectation()
                 - self.expected_term_reward(state)
                 )
 
     @lru_cache(CACHE_SIZE)
-    @contract
-    def vpi(self, state) -> 'float, >= -0.001':
+    def vpi(self, state):
         obs = self.subtree[0]
         return (self.node_value_after_observe(obs, 0, state).expectation()
                 - self.expected_term_reward(state)

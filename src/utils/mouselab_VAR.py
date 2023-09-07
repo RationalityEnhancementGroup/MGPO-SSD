@@ -1,7 +1,6 @@
 from src.utils.mouselab import MouselabEnv
 from src.utils.distributions import Categorical, PointMass, expectation, cross
 import numpy as np
-from contracts import contract
 
 NO_CACHE = False
 if NO_CACHE:
@@ -74,8 +73,7 @@ class MouselabVar(MouselabEnv):
 
     # Rewritten to take multiple paths to a node into account
     @lru_cache(CACHE_SIZE)
-    @contract
-    def vpi_action(self, action, state) -> 'float, >= -0.001':
+    def vpi_action(self, action, state):
         # Unique nodes in all paths leading to the action
         paths = self.path_to(action)
         flat_paths = [node for path in paths for node in path]
